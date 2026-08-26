@@ -1,5 +1,5 @@
 ## Description:
 
 * Module 2 Variables Assignment.
-* CLI utilizing switch-case logic for application.
+* Create program that stores username, application name, version name and displays welcome screen.
 
