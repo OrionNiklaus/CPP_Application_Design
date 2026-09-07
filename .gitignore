@@ -1,1 +1,6 @@
 .vscode/
+
+# Compiled C++ executables (files with no extension, e.g. g++ -o CLI_menu)
+Module*/*
+!Module*/*.*
+!Module*/.gitkeep
