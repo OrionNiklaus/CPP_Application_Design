@@ -22,6 +22,14 @@ I printed and bought required parts for a custom hexapod robot, but never got ar
 - [x] Module 6
 - [x] Module 7
 - [x] Midterm
+- [ ] Module 8
+- [ ] Module 9
+- [ ] Module 10
+- [ ] Module 11
+- [ ] Module 12
+- [ ] Module 13
+- [ ] Module 14
+- [ ] Module 15
 
 # Instructions for running application:
 I will create a simulation using ROS2 that will showcase the functionality of my code.
