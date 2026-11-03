@@ -32,6 +32,7 @@ public:
   std::string getName();
   virtual void displayInfo();
   static void displayLoggedIn();
+  
 };
 
 // derived class
