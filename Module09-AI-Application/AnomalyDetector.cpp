@@ -48,7 +48,7 @@ static string severityText(Severity s) {
   }
 }
 
-// --- MockAnomalyDetector ---
+// MockAnomalyDetector
 
 string MockAnomalyDetector::getName() const {
   return "Mock AI (offline statistical model)";
