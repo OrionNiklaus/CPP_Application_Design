@@ -1,0 +1,26 @@
+# type id channel joint min max center trim
+S 0 0 coxa 500 2500 1500 -12
+S 1 1 femur 500 2500 1500 8
+S 2 2 tibia 500 2500 1500 0
+S 3 3 coxa 500 2500 1500 15
+S 4 4 femur 500 2500 1500 -5
+S 5 5 tibia 500 2500 1500 22
+S 6 6 coxa 500 2500 1500 0
+S 7 7 femur 500 2500 1500 -18
+S 8 8 tibia 500 2500 1500 4
+S 9 9 coxa 500 2500 1500 -9
+S 10 10 femur 500 2500 1500 11
+S 11 11 tibia 500 2500 1500 -3
+S 12 12 coxa 500 2500 1500 6
+S 13 13 femur 500 2500 1500 0
+S 14 14 tibia 500 2500 1500 -12
+S 15 15 coxa 500 2500 1500 17
+S 16 16 femur 500 2500 1500 -7
+S 17 17 tibia 500 2500 1500 2
+# type id pin pressed
+F 0 20 1
+F 1 21 1
+F 2 22 1
+F 3 23 1
+F 4 24 1
+F 5 25 1
